@@ -1,0 +1,33 @@
+.h1{
+    text-align: center;
+    color: rgb(89, 89, 239);
+    margin-top: 10px;
+    justify-content: center;
+}
+.container{
+    width: 500px;
+    height: 600px;
+    border: 1px solid black;
+    border-radius: 10px;
+    justify-content: center;
+    text-align: center;
+    margin-left: 500px;
+    margin-bottom: 15px;
+    
+}
+.h2{
+    text-align: center;
+    margin-top: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.h3{
+    margin-top: -10px;
+    font-weight: 300;
+    color: rgb(149, 147, 145);
+    font-family: Arial;
+}
+.input{
+    text-align: left;
+    padding-left: 10px;
+}
